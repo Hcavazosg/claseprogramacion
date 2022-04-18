@@ -1,0 +1,4 @@
+﻿  Main C2.cpp
+C:\Users\Héctor\Desktop\c++\Clase 2\Clase 2\Main C2.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Héctor\Desktop\c++\Clase 2\Clase 2\Main C2.cpp(45,24): warning C4305: '=': truncation from 'double' to 'float'
+  Clase 2.vcxproj -> C:\Users\Héctor\Desktop\c++\Clase 2\x64\Debug\Clase 2.exe
