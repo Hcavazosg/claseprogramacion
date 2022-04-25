@@ -1,0 +1,4 @@
+﻿  Clase 4.cpp
+C:\Users\Héctor\Desktop\c++\Clase 4\Clase 4\Clase 4.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Héctor\Desktop\c++\Clase 4\Clase 4\Clase 4.cpp(21,11): warning C4101: 'arrayFloat': unreferenced local variable
+  Clase 4.vcxproj -> C:\Users\Héctor\Desktop\c++\Clase 4\x64\Debug\Clase 4.exe
