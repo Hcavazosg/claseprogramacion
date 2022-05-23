@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Héctor\Desktop\c++\Clase9\Clase9\Source.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Héctor\Desktop\c++\Clase9\Clase9\Source.cpp(37,22): warning C4101: 'a': unreferenced local variable
+C:\Users\Héctor\Desktop\c++\Clase9\Clase9\Source.cpp(37,25): warning C4101: 'b': unreferenced local variable
+C:\Users\Héctor\Desktop\c++\Clase9\Clase9\Source.cpp(37,28): warning C4101: 'suma': unreferenced local variable
+  Clase9.vcxproj -> C:\Users\Héctor\Desktop\c++\Clase9\x64\Debug\Clase9.exe
