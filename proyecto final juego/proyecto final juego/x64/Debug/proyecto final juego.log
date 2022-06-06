@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Héctor\Desktop\c++\proyecto final juego\proyecto final juego\Source.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Héctor\Desktop\c++\proyecto final juego\proyecto final juego\Source.cpp(24,17): warning C4101: 'opcion': unreferenced local variable
+  proyecto final juego.vcxproj -> C:\Users\Héctor\Desktop\c++\proyecto final juego\x64\Debug\proyecto final juego.exe
